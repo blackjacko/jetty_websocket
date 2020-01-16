@@ -8,7 +8,7 @@
     <artifactId>websocket</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <jetty.version>9.4.12.v20180830</jetty.version>
+        <jetty.version>9.4.25.v20191220</jetty.version>
     </properties>
 
     <build>
